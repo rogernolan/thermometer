@@ -1,0 +1,1 @@
+test code for a simple Arduino thermometer to write to firebase.
